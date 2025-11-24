@@ -42,13 +42,13 @@ Freelancer-Profile-UI/
 
 ---
 
-## ✨ Screenshots (Add later)
+## ✨ Screenshots 
 
 <img width="1443" height="807" alt="Screenshot 2025-11-24 234729" src="https://github.com/user-attachments/assets/3dcb9bc3-d75d-48fc-a054-e1398cc52fe0" />
 
 ---
 
-## 📌 Future Enhancements (Optional)
+## 📌 Future Enhancements 
 - Add Contact Form
 - Add Portfolio Projects Section
 - Make responsive version for mobile
